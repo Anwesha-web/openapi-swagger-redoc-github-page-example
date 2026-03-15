@@ -232,5 +232,7 @@ Modern teams treat documentation as **code** using a **Docs-as-Code workflow**.
 
 # Author
 
-API Documentation Example Project
+Anwesha Paul
+
+This project demonstrates a **real-world API documentation workflow used by modern developer platforms
 
